@@ -1,0 +1,25 @@
+# Fdb version 4
+["pdflatex"] 1794537988.28262 "d:/TieuLuan_HocMay/report/template.tex" "template.pdf" "template" 1794537989.0615 2
+  "c:/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1794457299 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1794456527 1288 655e228510b4c2a1abe905c368440826 ""
+  "c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty" 1794457715 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
+  "c:/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty" 1794457715 1057 525c2192b5febbd8c1f662c9468335bb ""
+  "c:/texlive/2026/texmf-dist/tex/latex/base/report.cls" 1794457964 23203 f495085ac76be4e20c5e1e88646a241e ""
+  "c:/texlive/2026/texmf-dist/tex/latex/base/size12.clo" 1794457964 8449 8dc66c6c313c8eb2d774af83bca435dd ""
+  "c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty" 1794457309 3804 debc05110ffb506cef68ea4e72c7bcee ""
+  "c:/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty" 1794457395 41601 9cf6c5257b1bc7af01a58859749dd37a ""
+  "c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty" 1794457482 2671 d9941f4bf4750e9b0603c9a2ec54693b ""
+  "c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1794457933 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
+  "c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty" 1794457939 6558 45786cbbf5684a09ee65aa45a7b367e0 ""
+  "c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1794457944 10176 c2fc1c663b3f3899ddac6e6ed3fb1d7e ""
+  "c:/texlive/2026/texmf-dist/web2c/texmf.cnf" 1794455858 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
+  "c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1794461266 3636404 0429083b8718ed2cf4be977867a973da ""
+  "c:/texlive/2026/texmf.cnf" 1794460947 713 e69b156964470283e0530f5060668171 ""
+  "d:/TieuLuan_HocMay/report/template.tex" 1794537985 42286 2ba1387e48585275958c94d36d899d68 ""
+  "template.aux" 1794537980 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "template.tex" 1794537985 42286 2ba1387e48585275958c94d36d899d68 ""
+  (generated)
+  "template.aux"
+  "template.log"
+  "template.pdf"
+  (rewritten before read)
